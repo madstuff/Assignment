@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e734702c-22a9-4141-aa54-b124e0b8576a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/madstuff.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment1_4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment5.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maddy.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/maddy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../readMe" beforeDir="false" afterPath="$PROJECT_DIR$/../readMe" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,7 +17,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assignment1_4.html">
+        <entry file="file://$PROJECT_DIR$/src/assignment1.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
               <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
@@ -176,7 +170,7 @@
       <option name="presentableId" value="Default" />
       <updated>1552884142236</updated>
       <workItem from="1552884143449" duration="10226000" />
-      <workItem from="1553018331222" duration="4945000" />
+      <workItem from="1553018331222" duration="5418000" />
     </task>
     <task id="LOCAL-00001" summary="some modifications to html.">
       <created>1553018396271</created>
@@ -185,11 +179,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553018396271</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Asignment 1 and 4 updated.">
+      <created>1553064168341</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553064168341</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15171000" />
+    <option name="totallyTimeSpent" value="15644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -218,7 +219,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="some modifications to html." />
-    <option name="LAST_COMMIT_MESSAGE" value="some modifications to html." />
+    <MESSAGE value="Asignment 1 and 4 updated." />
+    <option name="LAST_COMMIT_MESSAGE" value="Asignment 1 and 4 updated." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/css/bootstrap.min.css">
@@ -249,7 +251,7 @@
       <provider editor-type-id="sourcemapFileViewerProvider" />
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignment1_4.html">
+    <entry file="file://$PROJECT_DIR$/src/assignment1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Javascript Events</title>
+</head>
+<!-- When a web page has loaded.-->
+<body onload="checkCookies()">
+
+    <p id="loadEvent"></p>
+
+    <!-- When a user clicks a mouse. -->
+    <h3 onclick="this.innerHTML='Changed text because of onclick event!'">On click text changes!</h3>
+
+    <!-- When focus goes to the said event.
+         When focus is removed from the said event-->
+    Enter any input (onchange & onfocus event):
+    <input type="text" id="fName" onchange="changeCase()" onfocus="changeBackgroundColor(this)">
+
+    <!-- When a mouse is moved to the element.
+         When a mouse is moved away from the element.-->
+    <h3 onmouseover="style.color='red'" onmouseout="style.color='black'">onmouseover & onmouseout event</h3>
+
+
+    <script>
+        function checkCookies() {
+            let text = "onload: ";
+            if (navigator.cookieEnabled == true) {
+                text += "Cookies are enabled.";
+            } else {
+                text += "Cookies are not enabled.";
+            }
+
+            document.getElementById("loadEvent").innerHTML = text;
+        }
+
+        function changeCase() {
+            let x = document.getElementById("fName");
+            x.value = x.value.toUpperCase();
+        }
+
+        function changeBackgroundColor(x) {
+            x.style.background = "yellow";
+
+        }
+    </script>
+
+</body>
+</html>
